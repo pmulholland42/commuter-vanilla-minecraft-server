@@ -1,135 +1,42 @@
-[00:05:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2656ms or 53 ticks behind
-[00:11:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2391ms or 47 ticks behind
-[00:14:44] [User Authenticator #72/INFO]: UUID of player chenguqin is 5dc769d5-9bf4-4a7d-ba44-492dcae88caa
-[00:14:44] [Server thread/INFO]: chenguqin[/100.15.144.125:50091] logged in with entity id 885305 at (-384.700000025332, 95.0000002, -379.700000025332)
-[00:14:44] [Server thread/INFO]: chenguqin joined the game
-[00:16:06] [Server thread/WARN]: xxepic_koreanxx moved too quickly! -2.9368009023675654,6.823240724935758,-6.7614732936861515
-[00:16:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5138ms or 102 ticks behind
-[00:21:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2555ms or 51 ticks behind
-[00:27:34] [Server thread/INFO]: <chenguqin> :P
-[00:36:12] [Server thread/WARN]: xxepic_koreanxx moved too quickly! 4.000328382043733,5.5282957826021715,-16.302752714454556
-[00:36:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3236ms or 64 ticks behind
-[00:38:17] [Server thread/INFO]: <chenguqin> fuck u
-[00:38:23] [Server thread/INFO]: <xxepic_koreanxx> no u
-[00:38:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/891925, l='world', x=-226.20, y=51.00, z=-138.44]
-[00:38:26] [Server thread/INFO]: <chenguqin> i'm breaking up with you
-[00:38:38] [Server thread/INFO]: <xxepic_koreanxx> oof
-[00:41:15] [Server thread/WARN]: xxepic_koreanxx moved too quickly! 3.5870379290557537,-1.2895467332031672,9.371718681291753
-[00:41:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3343ms or 66 ticks behind
-[00:43:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/894138, l='world', x=-228.21, y=51.00, z=-138.53]
-[00:46:19] [Server thread/WARN]: xxepic_koreanxx moved too quickly! -9.695835702165596,-1.2468000194787976,-2.67279322770662
-[00:46:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3116ms or 62 ticks behind
-[00:52:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/896939, l='world', x=-227.29, y=51.00, z=-138.89]
-[00:53:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/897232, l='world', x=-228.72, y=51.00, z=-139.94]
-[00:54:09] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/897470, l='world', x=-259.47, y=70.00, z=-81.02]
-[00:56:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3444ms or 68 ticks behind
-[00:56:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/897961, l='world', x=-226.67, y=51.00, z=-138.45]
-[00:56:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/897961, l='world', x=-226.67, y=51.00, z=-138.45]
-[01:01:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2604ms or 52 ticks behind
-[01:02:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/899541, l='world', x=-227.09, y=51.00, z=-137.20]
-[01:02:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/899541, l='world', x=-227.09, y=51.00, z=-137.20]
-[01:06:29] [Server thread/WARN]: xxepic_koreanxx moved too quickly! 12.11207941959799,-3.146633979413238,12.974089976221364
-[01:06:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4579ms or 91 ticks behind
-[01:11:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2465ms or 49 ticks behind
-[01:19:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/905468, l='world', x=-227.21, y=51.00, z=-138.66]
-[01:19:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/905468, l='world', x=-227.21, y=51.00, z=-138.66]
-[01:21:06] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/905976, l='world', x=-226.70, y=51.00, z=-138.83]
-[01:21:06] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/905976, l='world', x=-226.70, y=51.00, z=-138.83]
-[01:21:35] [Server thread/WARN]: chenguqin moved too quickly! -0.22350436347315394,0.5,-10.218699747199139
-[01:21:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3754ms or 75 ticks behind
-[01:26:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4254ms or 85 ticks behind
-[02:04:13] [Server thread/INFO]: chenguqin lost connection: Disconnected
-[02:04:13] [Server thread/INFO]: chenguqin left the game
-[02:04:40] [Server thread/INFO]: xxepic_koreanxx lost connection: Disconnected
-[02:04:40] [Server thread/INFO]: xxepic_koreanxx left the game
-[11:34:26] [User Authenticator #73/INFO]: UUID of player peter1 is d78cf669-7f5c-402e-a92b-2614d038afe9
-[11:34:26] [Server thread/INFO]: peter1[/127.0.0.1:63674] logged in with entity id 916240 at (-265.55139664337906, 58.0, -140.03288830202357)
-[11:34:26] [Server thread/INFO]: peter1 joined the game
-[11:34:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/916716, l='world', x=-226.20, y=51.00, z=-138.99]
-[11:34:49] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/916705, l='world', x=-259.87, y=70.00, z=-81.02]
-[11:36:43] [Server thread/WARN]: peter1 moved too quickly! 6.669390118031345,7.5,-2.0263399921770144
-[11:36:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3804ms or 76 ticks behind
-[11:38:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/917514, l='world', x=-226.45, y=51.00, z=-137.72]
-[11:39:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/917747, l='world', x=-227.04, y=51.00, z=-138.45]
-[11:41:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/918355, l='world', x=-229.02, y=51.00, z=-138.75]
-[11:45:24] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/919780, l='world', x=-258.14, y=70.00, z=-81.02]
-[11:53:44] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/921472, l='world', x=-259.88, y=70.01, z=-81.68]
-[12:10:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[12:11:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8941ms or 178 ticks behind
-[12:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3878ms or 77 ticks behind
-[12:15:35] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/925940, l='world', x=-258.78, y=70.02, z=-81.88]
-[12:16:42] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/926163, l='world', x=-227.15, y=51.00, z=-139.81]
-[12:17:02] [Server thread/WARN]: peter1 moved too quickly! 10.28494820229497,0.41999998688697815,-1.4306123012669332
-[12:17:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3539ms or 70 ticks behind
-[12:28:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/928351, l='world', x=-226.64, y=51.00, z=-137.66]
-[12:44:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/931343, l='world', x=-227.46, y=51.00, z=-140.18]
-[12:45:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/931537, l='world', x=-227.23, y=51.00, z=-140.17]
-[12:47:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/932090, l='world', x=-229.25, y=51.00, z=-137.39]
-[12:57:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/933832, l='world', x=-227.07, y=51.00, z=-138.65]
-[12:57:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/933860, l='world', x=-228.25, y=51.01, z=-140.60]
-[12:58:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/934046, l='world', x=-227.00, y=51.00, z=-137.94]
-[13:02:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/934665, l='world', x=-230.80, y=51.00, z=-139.36]
-[13:15:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/937044, l='world', x=-227.81, y=51.00, z=-137.64]
-[13:16:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/937254, l='world', x=-229.56, y=51.00, z=-137.20]
-[13:19:40] [Server thread/INFO]: [peter1: Set own game mode to Spectator Mode]
-[13:21:22] [Server thread/INFO]: [peter1: Set own game mode to Survival Mode]
-[13:22:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
-[13:23:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/938265, l='world', x=-230.38, y=51.00, z=-137.20]
-[13:25:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/938838, l='world', x=-229.68, y=51.00, z=-139.25]
-[13:30:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/939814, l='world', x=-227.39, y=51.00, z=-139.64]
-[13:30:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/939835, l='world', x=-228.48, y=51.00, z=-140.14]
-[13:33:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/940324, l='world', x=-230.35, y=51.00, z=-137.66]
-[13:37:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/941203, l='world', x=-226.20, y=51.00, z=-137.20]
-[13:38:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/941329, l='world', x=-226.20, y=51.00, z=-139.83]
-[13:46:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/943001, l='world', x=-227.56, y=51.00, z=-140.80]
-[13:47:34] [Server thread/INFO]: [peter1: Set own game mode to Spectator Mode]
-[13:47:48] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/943386, l='world', x=-228.42, y=51.00, z=-140.44]
-[13:49:22] [Server thread/INFO]: [peter1: Set own game mode to Survival Mode]
-[13:51:40] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/944205, l='world', x=-230.80, y=51.00, z=-140.80]
-[13:52:08] [Server thread/WARN]: peter1 moved too quickly! 0.379956226833599,-8.419999986886978,5.4932788524126295
-[13:52:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4298ms or 85 ticks behind
-[13:54:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/944672, l='world', x=-229.12, y=51.00, z=-139.87]
-[13:55:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/944840, l='world', x=-226.20, y=51.00, z=-138.01]
-[13:55:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/944848, l='world', x=-229.28, y=51.00, z=-139.52]
-[13:57:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/945219, l='world', x=-226.60, y=51.00, z=-139.12]
-[13:59:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/945786, l='world', x=-230.25, y=51.00, z=-137.61]
-[14:02:41] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/946508, l='world', x=-258.13, y=70.43, z=-80.99]
-[14:07:11] [Server thread/WARN]: peter1 moved too quickly! -10.14665402881991,1.2491870787446828,-0.2641353537401301
-[14:07:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3519ms or 70 ticks behind
-[14:08:06] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/948098, l='world', x=-229.94, y=51.00, z=-139.05]
-[14:12:18] [Server thread/WARN]: peter1 moved too quickly! 8.98794605249833,-1.0,4.647222990699589
-[14:12:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6446ms or 128 ticks behind
-[14:13:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/951661, l='world', x=-226.20, y=51.00, z=-139.28]
-[14:17:22] [Server thread/INFO]: [peter1: Set own game mode to Spectator Mode]
-[14:17:36] [Server thread/INFO]: [peter1: Set own game mode to Survival Mode]
-[14:23:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/953677, l='world', x=-228.33, y=51.00, z=-137.77]
-[14:25:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/954157, l='world', x=-229.61, y=51.00, z=-137.65]
-[14:27:38] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/954553, l='world', x=-258.13, y=70.00, z=-81.88]
-[14:29:13] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/954826, l='world', x=-228.41, y=51.00, z=-138.17]
-[14:29:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/954848, l='world', x=-227.23, y=51.00, z=-140.31]
-[14:30:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/955039, l='world', x=-228.47, y=51.00, z=-140.51]
-[14:32:13] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/955474, l='world', x=-230.80, y=51.00, z=-140.35]
-[14:33:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/955700, l='world', x=-228.40, y=51.00, z=-140.41]
-[14:34:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/955981, l='world', x=-228.42, y=51.00, z=-140.43]
-[14:34:43] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/955987, l='world', x=-229.16, y=51.00, z=-139.98]
-[14:35:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/956055, l='world', x=-226.67, y=51.00, z=-139.40]
-[14:35:48] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/956258, l='world', x=-227.51, y=51.00, z=-139.57]
-[14:36:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/956289, l='world', x=-227.17, y=51.00, z=-137.62]
-[14:36:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/956329, l='world', x=-227.31, y=51.00, z=-140.80]
-[14:40:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/957277, l='world', x=-230.29, y=51.00, z=-139.75]
-[14:42:57] [Server thread/INFO]: peter1 lost connection: Disconnected
-[14:42:57] [Server thread/INFO]: peter1 left the game
-[14:42:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
-[14:43:04] [Server thread/INFO]: Stopping the server
-[14:43:04] [Server thread/INFO]: Stopping server
-[14:43:04] [Server thread/INFO]: Saving players
-[14:43:04] [Server thread/INFO]: Saving worlds
-[14:43:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[14:43:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:43:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[14:43:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:43:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[14:43:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:43:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:43:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:43:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:59:31] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:59:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:59:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:59:31] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:59:31] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:59:31] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[14:59:31] [Server thread/INFO]: Loading properties
+[14:59:31] [Server thread/INFO]: Default game type: SURVIVAL
+[14:59:31] [Server thread/INFO]: Generating keypair
+[14:59:32] [Server thread/INFO]: Starting Minecraft server on *:25564
+[14:59:32] [Server thread/INFO]: Using default channel type
+[14:59:35] [Server thread/INFO]: Preparing level "world"
+[14:59:35] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:59:35] [Server thread/INFO]: Loaded 6 recipes
+[14:59:36] [Server thread/INFO]: Loaded 811 advancements
+[14:59:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:59:37] [Server thread/INFO]: Preparing spawn area: 0%
+[14:59:37] [Server thread/INFO]: Preparing spawn area: 0%
+[14:59:37] [Server thread/INFO]: Preparing spawn area: 0%
+[14:59:37] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[14:59:38] [Server thread/INFO]: Time elapsed: 2505 ms
+[14:59:38] [Server thread/INFO]: Done (3.518s)! For help, type "help"
+[14:59:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[14:59:54] [User Authenticator #1/INFO]: UUID of player peter1 is d78cf669-7f5c-402e-a92b-2614d038afe9
+[14:59:56] [Server thread/INFO]: peter1[/127.0.0.1:60195] logged in with entity id 781 at (-242.50411059593597, 58.0, -143.89187090712613)
+[14:59:56] [Server thread/INFO]: peter1 joined the game
+[15:00:29] [Server thread/INFO]: peter1 lost connection: Disconnected
+[15:00:29] [Server thread/INFO]: peter1 left the game
+[15:00:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[15:00:36] [Server thread/INFO]: Stopping the server
+[15:00:36] [Server thread/INFO]: Stopping server
+[15:00:36] [Server thread/INFO]: Saving players
+[15:00:36] [Server thread/INFO]: Saving worlds
+[15:00:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[15:00:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:00:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[15:00:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:00:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[15:00:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:00:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:00:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:00:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
