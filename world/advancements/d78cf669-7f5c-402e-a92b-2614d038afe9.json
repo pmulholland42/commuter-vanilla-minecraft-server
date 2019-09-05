@@ -731,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2019-09-02 15:23:51 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2019-06-24 22:15:57 -0400"
@@ -844,7 +850,8 @@
       "minecraft:silverfish": "2019-06-28 22:43:30 -0400",
       "minecraft:enderman": "2019-06-24 21:57:07 -0400",
       "minecraft:zombie": "2019-06-24 21:49:07 -0400",
-      "minecraft:drowned": "2019-06-28 22:15:23 -0400"
+      "minecraft:drowned": "2019-06-28 22:15:23 -0400",
+      "minecraft:zombie_villager": "2019-09-02 22:27:46 -0400"
     },
     "done": false
   },
@@ -1391,6 +1398,12 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2019-08-27 21:28:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2019-09-02 15:23:51 -0400"
     },
     "done": true
   },
@@ -3625,6 +3638,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-09-01 20:14:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2019-09-02 15:23:51 -0400"
     },
     "done": true
   },
