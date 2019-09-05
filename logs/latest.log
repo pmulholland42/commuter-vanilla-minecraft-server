@@ -1,85 +1,135 @@
-[01:23:43] [User Authenticator #8/INFO]: UUID of player raviejaaz is f1c0daea-c529-4c76-9bfa-c45846a97510
-[01:23:43] [Server thread/INFO]: raviejaaz[/71.225.154.193:56708] logged in with entity id 68075 at (-263.32384309309276, 58.0, -145.95100541849675)
-[01:23:43] [Server thread/INFO]: raviejaaz joined the game
-[01:26:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5864ms or 117 ticks behind
-[01:28:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/71372, l='world', x=-228.51, y=51.00, z=-140.43]
-[01:29:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/71617, l='world', x=-228.44, y=51.00, z=-140.61]
-[01:29:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/71772, l='world', x=-229.27, y=51.00, z=-139.35]
-[01:31:07] [Server thread/INFO]: raviejaaz lost connection: Disconnected
-[01:31:07] [Server thread/INFO]: raviejaaz left the game
-[01:31:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
-[01:31:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
-[10:54:01] [User Authenticator #9/INFO]: UUID of player raviejaaz is f1c0daea-c529-4c76-9bfa-c45846a97510
-[10:54:01] [Server thread/INFO]: raviejaaz[/71.225.154.193:61250] logged in with entity id 73373 at (-252.34311545868488, 93.0, -104.75889259127415)
-[10:54:01] [Server thread/INFO]: raviejaaz joined the game
-[10:56:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4380ms or 87 ticks behind
-[11:00:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/75825, l='world', x=-228.15, y=51.00, z=-138.89]
-[11:01:50] [Server thread/INFO]: raviejaaz lost connection: Disconnected
-[11:01:50] [Server thread/INFO]: raviejaaz left the game
-[11:01:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4462ms or 89 ticks behind
-[11:02:32] [User Authenticator #10/INFO]: UUID of player raviejaaz is f1c0daea-c529-4c76-9bfa-c45846a97510
-[11:02:32] [Server thread/INFO]: raviejaaz[/71.225.154.193:61873] logged in with entity id 76165 at (-224.0208758710169, 64.0, -106.57664727898461)
-[11:02:32] [Server thread/INFO]: raviejaaz joined the game
-[11:03:55] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/76877, l='world', x=-228.41, y=51.00, z=-140.41]
-[11:04:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/76898, l='world', x=-227.58, y=51.00, z=-138.52]
-[11:05:23] [Server thread/INFO]: raviejaaz lost connection: Disconnected
-[11:05:23] [Server thread/INFO]: raviejaaz left the game
-[11:05:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[11:06:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
-[11:10:32] [User Authenticator #11/INFO]: UUID of player xxepic_koreanxx is 5c903d3c-52d6-49d7-9961-8e7ce1fe14a6
-[11:10:32] [Server thread/INFO]: xxepic_koreanxx[/100.15.144.125:57820] logged in with entity id 78036 at (-222.98276930393754, 61.412651921533886, -70.10550713518148)
-[11:10:32] [Server thread/INFO]: xxepic_koreanxx joined the game
-[11:10:55] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/78409, l='world', x=-228.83, y=51.00, z=-140.14]
-[11:11:49] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/78622, l='world', x=-227.14, y=51.00, z=-137.64]
-[11:12:03] [Server thread/WARN]: xxepic_koreanxx moved too quickly! -0.24034590562706626,-0.8291870918577047,-10.26092189203652
-[11:12:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3931ms or 78 ticks behind
-[11:14:41] [User Authenticator #12/INFO]: UUID of player raviejaaz is f1c0daea-c529-4c76-9bfa-c45846a97510
-[11:14:41] [Server thread/INFO]: raviejaaz[/71.225.154.193:50106] logged in with entity id 79183 at (-243.9739620721835, 110.45150458200028, -81.67827591223278)
-[11:14:41] [Server thread/INFO]: raviejaaz joined the game
-[11:14:42] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79194, l='world', x=-228.51, y=51.00, z=-140.46]
-[11:14:42] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79194, l='world', x=-228.51, y=51.00, z=-140.46]
-[11:14:49] [Server thread/INFO]: <xxepic_koreanxx> suh my dude
-[11:15:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79362, l='world', x=-229.89, y=51.00, z=-137.91]
-[11:15:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79362, l='world', x=-229.89, y=51.00, z=-137.91]
-[11:15:20] [Server thread/INFO]: <raviejaaz> i got kicked from the server when flying, and i didnt know where it would put me, i just spawned glitching through the floor, that was wild
-[11:15:26] [Server thread/INFO]: <xxepic_koreanxx> F
-[11:15:29] [Server thread/INFO]: <xxepic_koreanxx> where you at
-[11:15:35] [Server thread/INFO]: <raviejaaz> mourning
-[11:16:03] [Server thread/INFO]: <xxepic_koreanxx> F
-[11:16:05] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79655, l='world', x=-227.46, y=51.00, z=-140.31]
-[11:16:05] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79655, l='world', x=-227.46, y=51.00, z=-140.31]
-[11:16:17] [Server thread/INFO]: [Server] im gonna do some time travel
-[11:16:28] [Server thread/INFO]: <raviejaaz> server-chan, offer us enlightenment
-[11:16:37] [Server thread/INFO]: [Server] you guys mind if i revert the server and look around
-[11:16:43] [Server thread/INFO]: [Server] you can join me
-[11:16:51] [Server thread/INFO]: <raviejaaz> you'll put it back to this right? also are you home, discord?
-[11:16:55] [Server thread/INFO]: <xxepic_koreanxx> how far back?
-[11:16:59] [Server thread/INFO]: [Server] yes and yes
-[11:17:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2301ms or 46 ticks behind
-[11:17:14] [Server thread/INFO]: [Server] until the magma blocks are gone
-[11:17:43] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79937, l='world', x=-229.79, y=51.00, z=-138.13]
-[11:17:43] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79937, l='world', x=-229.79, y=51.00, z=-138.13]
-[11:18:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/80035, l='world', x=-228.30, y=51.00, z=-137.72]
-[11:18:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/80035, l='world', x=-228.30, y=51.00, z=-137.72]
-[11:18:19] [Server thread/INFO]: <xxepic_koreanxx> suh
-[11:18:20] [Server thread/INFO]: <raviejaaz> bye jaehee
-[11:18:24] [Server thread/INFO]: <xxepic_koreanxx> nani
-[11:18:26] [Server thread/INFO]: [Server] server stopping in 5 seconds
-[11:18:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/80112, l='world', x=-230.56, y=51.00, z=-137.67]
-[11:18:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/80112, l='world', x=-230.56, y=51.00, z=-137.67]
-[11:18:29] [Server thread/INFO]: <xxepic_koreanxx> oh F
-[11:18:32] [Server thread/INFO]: Stopping the server
-[11:18:32] [Server thread/INFO]: Stopping server
-[11:18:32] [Server thread/INFO]: Saving players
-[11:18:32] [Server thread/INFO]: xxepic_koreanxx lost connection: Server closed
-[11:18:32] [Server thread/INFO]: xxepic_koreanxx left the game
-[11:18:32] [Server thread/INFO]: Saving worlds
-[11:18:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[11:18:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:18:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[11:18:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:18:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[11:18:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:18:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:18:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:18:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:27:37] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:27:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:27:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:27:37] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:27:37] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:27:37] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[11:27:37] [Server thread/INFO]: Loading properties
+[11:27:37] [Server thread/INFO]: Default game type: SURVIVAL
+[11:27:37] [Server thread/INFO]: Generating keypair
+[11:27:37] [Server thread/INFO]: Starting Minecraft server on *:25564
+[11:27:37] [Server thread/INFO]: Using default channel type
+[11:27:38] [Server thread/INFO]: Preparing level "world"
+[11:27:38] [Server thread/INFO]: Reloading ResourceManager: Default
+[11:27:39] [Server thread/INFO]: Loaded 6 recipes
+[11:27:39] [Server thread/INFO]: Loaded 811 advancements
+[11:27:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:27:41] [Server thread/INFO]: Preparing spawn area: 0%
+[11:27:41] [Server thread/INFO]: Preparing spawn area: 0%
+[11:27:41] [Server thread/INFO]: Preparing spawn area: 0%
+[11:27:41] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[11:27:41] [User Authenticator #1/INFO]: UUID of player raviejaaz is f1c0daea-c529-4c76-9bfa-c45846a97510
+[11:27:42] [Server thread/INFO]: Preparing spawn area: 13%
+[11:27:42] [Server thread/INFO]: Time elapsed: 2377 ms
+[11:27:42] [Server thread/INFO]: Done (3.452s)! For help, type "help"
+[11:27:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b5bd9bb[id=f1c0daea-c529-4c76-9bfa-c45846a97510,name=raviejaaz,properties={textures=[com.mojang.authlib.properties.Property@3dab06a1]},legacy=false] (/71.225.154.193:50452) lost connection: Disconnected
+[11:27:43] [User Authenticator #2/INFO]: UUID of player raviejaaz is f1c0daea-c529-4c76-9bfa-c45846a97510
+[11:27:43] [Server thread/INFO]: raviejaaz[/71.225.154.193:50455] logged in with entity id 766 at (-269.78144349697686, 66.0, -141.95410233484006)
+[11:27:44] [Server thread/INFO]: raviejaaz joined the game
+[11:27:44] [Server thread/WARN]: Fetching packet for removed entity atx['Egg'/764, l='world', x=-224.20, y=58.00, z=-140.20]
+[11:27:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
+[11:27:45] [User Authenticator #3/INFO]: UUID of player xxepic_koreanxx is 5c903d3c-52d6-49d7-9961-8e7ce1fe14a6
+[11:27:45] [Server thread/INFO]: xxepic_koreanxx[/100.15.144.125:57919] logged in with entity id 767 at (-267.0092405876519, 66.0, -141.50557728835344)
+[11:27:45] [Server thread/INFO]: xxepic_koreanxx joined the game
+[11:27:47] [User Authenticator #4/INFO]: UUID of player peter1 is d78cf669-7f5c-402e-a92b-2614d038afe9
+[11:27:47] [Server thread/INFO]: peter1[/127.0.0.1:57788] logged in with entity id 782 at (-5661.002379867407, 64.0, -17633.43003843304)
+[11:27:47] [Server thread/INFO]: peter1 joined the game
+[11:27:54] [Server thread/INFO]: peter1 lost connection: Disconnected
+[11:27:54] [Server thread/INFO]: peter1 left the game
+[11:27:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1034, l='world', x=-226.69, y=51.00, z=-140.80]
+[11:27:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1034, l='world', x=-226.69, y=51.00, z=-140.80]
+[11:31:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2379, l='world', x=-228.43, y=51.00, z=-137.20]
+[11:31:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2379, l='world', x=-228.43, y=51.00, z=-137.20]
+[11:31:43] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2400, l='world', x=-227.59, y=51.00, z=-138.53]
+[11:31:43] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2400, l='world', x=-227.59, y=51.00, z=-138.53]
+[11:32:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6506ms or 130 ticks behind
+[11:33:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3474, l='world', x=-228.06, y=51.00, z=-140.12]
+[11:35:52] [Server thread/INFO]: raviejaaz lost connection: Disconnected
+[11:35:52] [Server thread/INFO]: raviejaaz left the game
+[11:36:00] [User Authenticator #5/INFO]: UUID of player raviejaaz is f1c0daea-c529-4c76-9bfa-c45846a97510
+[11:36:00] [Server thread/INFO]: raviejaaz[/71.225.154.193:50592] logged in with entity id 4298 at (-245.4881784306368, 66.0, -141.57400733488117)
+[11:36:00] [Server thread/INFO]: raviejaaz joined the game
+[11:37:26] [Server thread/INFO]: raviejaaz fell from a high place
+[11:37:56] [Server thread/WARN]: raviejaaz moved too quickly! -10.050318355473706,0.0,-0.2802490615732154
+[11:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4957ms or 99 ticks behind
+[11:38:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5118, l='world', x=-228.95, y=51.00, z=-138.22]
+[11:38:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5118, l='world', x=-228.95, y=51.00, z=-138.22]
+[11:38:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5172, l='world', x=-228.42, y=51.00, z=-140.42]
+[11:38:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5172, l='world', x=-228.42, y=51.00, z=-140.42]
+[11:39:48] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5640, l='world', x=-228.03, y=51.00, z=-138.74]
+[11:39:48] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5640, l='world', x=-228.03, y=51.00, z=-138.74]
+[11:41:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5894, l='world', x=-228.59, y=51.00, z=-140.55]
+[11:41:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5894, l='world', x=-228.59, y=51.00, z=-140.55]
+[11:42:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[11:46:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7081, l='world', x=-229.33, y=51.00, z=-137.20]
+[11:46:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7081, l='world', x=-229.33, y=51.00, z=-137.20]
+[11:47:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7386, l='world', x=-229.99, y=51.00, z=-138.59]
+[11:47:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7386, l='world', x=-229.99, y=51.00, z=-138.59]
+[11:48:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7411, l='world', x=-227.50, y=51.00, z=-137.20]
+[11:48:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7411, l='world', x=-227.50, y=51.00, z=-137.20]
+[11:48:49] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7612, l='world', x=-229.20, y=51.00, z=-140.80]
+[11:48:49] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7612, l='world', x=-229.20, y=51.00, z=-140.80]
+[11:50:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7973, l='world', x=-228.52, y=51.00, z=-140.46]
+[11:50:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7973, l='world', x=-228.52, y=51.00, z=-140.46]
+[11:50:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7978, l='world', x=-229.90, y=51.00, z=-140.80]
+[11:50:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7978, l='world', x=-229.90, y=51.00, z=-140.80]
+[11:50:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/8024, l='world', x=-227.56, y=51.00, z=-139.14]
+[11:50:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/8024, l='world', x=-227.56, y=51.00, z=-139.14]
+[11:50:59] [Server thread/INFO]: <raviejaaz> vaporean, flareon, jolteon, espeon, umbreon, leafeon, glaceon, sylveon
+[11:58:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
+[11:58:31] [Server thread/INFO]: xxepic_koreanxx lost connection: Disconnected
+[11:58:31] [Server thread/INFO]: xxepic_koreanxx left the game
+[11:58:31] [Server thread/INFO]: raviejaaz lost connection: Disconnected
+[11:58:31] [Server thread/INFO]: raviejaaz left the game
+[11:58:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[11:58:53] [User Authenticator #6/INFO]: UUID of player raviejaaz is f1c0daea-c529-4c76-9bfa-c45846a97510
+[11:58:54] [Server thread/INFO]: raviejaaz[/71.225.154.193:51038] logged in with entity id 10265 at (-257.94806175645266, 66.0, -125.79260131796167)
+[11:58:54] [Server thread/INFO]: raviejaaz joined the game
+[11:58:57] [User Authenticator #7/INFO]: UUID of player xxepic_koreanxx is 5c903d3c-52d6-49d7-9961-8e7ce1fe14a6
+[11:58:57] [Server thread/INFO]: xxepic_koreanxx[/100.15.144.125:58045] logged in with entity id 10397 at (-238.49867678042142, 66.0, -142.39748218861286)
+[11:58:57] [Server thread/INFO]: xxepic_koreanxx joined the game
+[12:01:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/11213, l='world', x=-229.38, y=51.00, z=-140.35]
+[12:01:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/11213, l='world', x=-229.38, y=51.00, z=-140.35]
+[12:02:01] [Server thread/INFO]: xxepic_koreanxx lost connection: Disconnected
+[12:02:01] [Server thread/INFO]: xxepic_koreanxx left the game
+[12:03:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5651ms or 113 ticks behind
+[12:03:29] [Server thread/INFO]: raviejaaz lost connection: Disconnected
+[12:03:29] [Server thread/INFO]: raviejaaz left the game
+[12:08:03] [User Authenticator #8/INFO]: UUID of player peter1 is d78cf669-7f5c-402e-a92b-2614d038afe9
+[12:08:03] [Server thread/INFO]: peter1[/127.0.0.1:60979] logged in with entity id 11652 at (-5661.062590364914, 64.0, -17636.90825781418)
+[12:08:03] [Server thread/INFO]: peter1 joined the game
+[12:08:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3044ms or 60 ticks behind
+[12:08:11] [Server thread/INFO]: peter1 lost connection: Disconnected
+[12:08:11] [Server thread/INFO]: peter1 left the game
+[12:10:54] [Server thread/INFO]: Made raviejaaz a server operator
+[15:59:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@13d0e130[id=<null>,name=peter1,properties={},legacy=false] (/127.0.0.1:65021) lost connection: Disconnected
+[16:00:02] [User Authenticator #9/INFO]: UUID of player peter1 is d78cf669-7f5c-402e-a92b-2614d038afe9
+[16:00:02] [Server thread/INFO]: peter1[/127.0.0.1:65411] logged in with entity id 11876 at (-5658.925390214419, 64.0, -17640.09804144333)
+[16:00:02] [Server thread/INFO]: peter1 joined the game
+[16:02:29] [Server thread/INFO]: peter1 lost connection: Disconnected
+[16:02:29] [Server thread/INFO]: peter1 left the game
+[16:02:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
+[16:09:36] [User Authenticator #10/INFO]: UUID of player fot9 is 6cb6de93-36b3-4209-a831-fecf2ed1a736
+[16:09:36] [Server thread/INFO]: fot9[/24.131.225.41:59837] logged in with entity id 15868 at (-240.40261585248902, 63.0, -156.32597219880125)
+[16:09:36] [Server thread/INFO]: fot9 joined the game
+[16:10:02] [Server thread/INFO]: Unknown command
+[16:10:02] [Server thread/INFO]: <--[HERE]
+[16:10:08] [Server thread/INFO]: [Server] did you do it
+[16:10:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/16343, l='world', x=-229.02, y=51.00, z=-140.35]
+[16:10:21] [Server thread/INFO]: <fot9> didn't kill his cat, but backup the server now if you can
+[16:10:29] [Server thread/INFO]: Banned fot9: Banned by an operator.
+[16:10:29] [Server thread/INFO]: fot9 lost connection: You are banned from this server
+[16:10:29] [Server thread/INFO]: fot9 left the game
+[16:11:13] [Server thread/INFO]: Stopping the server
+[16:11:13] [Server thread/INFO]: Stopping server
+[16:11:13] [Server thread/INFO]: Saving players
+[16:11:13] [Server thread/INFO]: Saving worlds
+[16:11:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[16:11:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:11:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[16:11:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:11:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[16:11:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:11:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:11:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:11:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
