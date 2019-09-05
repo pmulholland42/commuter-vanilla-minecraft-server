@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2019-09-04 22:20:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_at_least_9_emerald": "2019-08-14 22:01:35 -0400"
@@ -1650,16 +1656,21 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 21:30:15 -0400",
+      "minecraft:snowy_mountains": "2019-09-04 21:58:56 -0400",
       "minecraft:mountains": "2019-06-24 21:58:58 -0400",
       "minecraft:forest": "2019-07-24 21:38:12 -0400",
       "minecraft:badlands_plateau": "2019-08-21 22:39:56 -0400",
       "minecraft:taiga": "2019-08-21 22:43:33 -0400",
       "minecraft:desert_hills": "2019-07-24 22:06:53 -0400",
+      "minecraft:giant_tree_taiga": "2019-09-04 22:04:57 -0400",
       "minecraft:deep_cold_ocean": "2019-08-19 21:30:24 -0400",
+      "minecraft:snowy_tundra": "2019-09-04 21:58:37 -0400",
       "minecraft:taiga_hills": "2019-08-21 22:43:35 -0400",
       "minecraft:desert": "2019-06-27 21:47:50 -0400",
+      "minecraft:frozen_river": "2019-09-04 21:59:35 -0400",
       "minecraft:deep_frozen_ocean": "2019-08-19 21:30:21 -0400",
       "minecraft:birch_forest": "2019-07-12 20:23:17 -0400",
+      "minecraft:snowy_beach": "2019-09-04 22:02:42 -0400",
       "minecraft:warm_ocean": "2019-06-27 21:50:15 -0400",
       "minecraft:deep_lukewarm_ocean": "2019-06-27 21:44:33 -0400",
       "minecraft:badlands": "2019-08-21 22:39:52 -0400",
@@ -1668,12 +1679,15 @@
       "minecraft:dark_forest": "2019-07-12 20:02:39 -0400",
       "minecraft:lukewarm_ocean": "2019-06-27 21:44:29 -0400",
       "minecraft:river": "2019-06-24 22:49:54 -0400",
+      "minecraft:snowy_taiga": "2019-09-04 22:00:04 -0400",
       "minecraft:birch_forest_hills": "2019-07-12 20:27:58 -0400",
       "minecraft:wooded_mountains": "2019-06-24 22:49:47 -0400",
       "minecraft:wooded_hills": "2019-06-24 21:46:12 -0400",
       "minecraft:stone_shore": "2019-07-12 19:59:40 -0400",
+      "minecraft:giant_tree_taiga_hills": "2019-09-04 22:05:17 -0400",
       "minecraft:wooded_badlands_plateau": "2019-08-21 22:40:01 -0400",
       "minecraft:swamp": "2019-06-24 22:00:31 -0400",
+      "minecraft:snowy_taiga_hills": "2019-09-04 22:00:07 -0400",
       "minecraft:savanna": "2019-07-26 20:16:31 -0400",
       "minecraft:plains": "2019-06-24 21:47:20 -0400"
     },
