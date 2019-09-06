@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-09-05 20:42:39 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2019-06-24 21:55:33 -0400"
@@ -452,6 +458,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2019-06-24 22:08:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-09-05 20:42:39 -0400"
     },
     "done": true
   },
@@ -1580,7 +1592,9 @@
       "minecraft:desert": "2019-06-25 11:34:13 -0400",
       "minecraft:frozen_river": "2019-08-19 19:35:18 -0400",
       "minecraft:deep_frozen_ocean": "2019-07-12 21:42:41 -0400",
+      "minecraft:jungle": "2019-09-05 19:51:42 -0400",
       "minecraft:birch_forest": "2019-06-27 20:28:35 -0400",
+      "minecraft:jungle_hills": "2019-09-05 19:57:22 -0400",
       "minecraft:snowy_beach": "2019-08-19 21:51:53 -0400",
       "minecraft:warm_ocean": "2019-06-25 11:31:38 -0400",
       "minecraft:deep_lukewarm_ocean": "2019-06-24 22:04:06 -0400",
@@ -1597,6 +1611,7 @@
       "minecraft:stone_shore": "2019-06-24 22:50:34 -0400",
       "minecraft:wooded_badlands_plateau": "2019-08-21 22:40:03 -0400",
       "minecraft:swamp": "2019-06-24 22:46:47 -0400",
+      "minecraft:snowy_taiga_hills": "2019-09-05 20:41:20 -0400",
       "minecraft:savanna": "2019-06-26 15:49:11 -0400",
       "minecraft:plains": "2019-06-24 21:43:53 -0400"
     },
@@ -1836,6 +1851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2019-09-05 19:59:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_at_least_9_diamond": "2019-07-24 21:23:03 -0400"
@@ -1923,6 +1944,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-06-24 21:50:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2019-09-05 19:59:25 -0400"
     },
     "done": true
   },
@@ -2447,6 +2474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-09-05 20:42:39 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2019-06-24 22:00:39 -0400"
@@ -2486,6 +2519,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2019-07-12 20:00:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-09-05 20:42:39 -0400"
     },
     "done": true
   },
@@ -3100,6 +3139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-09-05 20:42:39 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-06-24 22:01:21 -0400"
@@ -3283,6 +3328,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-06-24 22:05:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-09-05 20:42:39 -0400"
     },
     "done": true
   },
@@ -3883,6 +3934,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2019-07-25 23:56:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-09-05 20:42:39 -0400"
     },
     "done": true
   },
